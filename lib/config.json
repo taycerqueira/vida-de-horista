@@ -1,0 +1,9 @@
+{
+  "valor_hora": "10.0",
+  "feriados": [
+    {
+      "data": "2019-09-07",
+      "nome": "7 de Setembro"
+    }
+  ]
+}
